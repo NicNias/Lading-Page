@@ -36,7 +36,7 @@ export function Home() {
                 </div>
             </div>
 
-            <div className="bg-[url('Background_Contacts.png')] bg-cover bg-center h-screen flex flex-col justify-center items-center gap-5">
+            <div className="bg-[url('/Background_Contacts.png')] bg-cover bg-center h-screen flex flex-col justify-center items-center gap-5">
                 <div className="text-center">
                     <h3 className="text-computer text-lg">Contato</h3>
                     <h1 className="text-text-primary text-2xl font-bold">Gostou do nosso trabalho?</h1>
